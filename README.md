@@ -2,3 +2,4 @@
 
 Se agregan los colaboradores:
 Juan Pablo Moreno
+Pepito Perez
